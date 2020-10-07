@@ -17,7 +17,7 @@ public class KPJavaInterviewExamples {
 		byte b = 10;
 		b = (byte) (b + 1);
 		System.out.println(
-				"Value of the 'byte' type variable 'b' resulting in operation cast 'addition' operation? \n" + b);
+				"\t Value of the 'byte' type variable 'b' resulting in operation cast 'addition' operation : \n \t " + b);
 		/// KP : Q&A : 1 - Can we add a variable of datatype 'byte'? What will happen if
 		
 		
