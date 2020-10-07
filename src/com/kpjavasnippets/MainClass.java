@@ -3,6 +3,8 @@
  */
 package com.kpjavasnippets;
 
+import com.kpjavaspringboot.KPJavaInterviewExamples;
+
 /**
  * @author admin
  *
@@ -22,6 +24,15 @@ public class MainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("KP : KPJavaSnippets : MainClass : main()");
+				
+		////KP : Interview Questions & Answers
+		//KP : Static Method can be accessed directly with out Class-Object Instantiation
+		//KPJavaInterviewExamples.getInterviewQuestions();	
+		KPJavaInterviewExamples objKPJavaIntvwExp = new KPJavaInterviewExamples();
+		KPJavaInterviewExamples.getInterviewQuestions();
+				
+		
+		
 	}
 
 }
