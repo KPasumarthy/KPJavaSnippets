@@ -3,7 +3,7 @@
  */
 package com.kpjavasnippets;
 
-import com.kpjavasnippets.KPJavaInterviewExamples;
+import com.kpjavaspringboot.KPJavaInterviewExamples;
 
 /**
  * @author admin
